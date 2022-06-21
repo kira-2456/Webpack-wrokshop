@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_workshop=self.webpackChunkwebpack_workshop||[]).push([[420],{420:(e,n,t)=>{t.r(n),t.d(n,{default:()=>a});var l=t(7294),c=t(5025);const a=function(e){return l.createElement("div",null,l.createElement("h1",null,"Contact Component!"),l.createElement(c.Z,null))}}}]);

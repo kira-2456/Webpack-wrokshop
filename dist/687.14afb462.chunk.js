@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_workshop=self.webpackChunkwebpack_workshop||[]).push([[687],{5687:(e,n,l)=>{l.r(n),l.d(n,{default:()=>r});var o=l(7294),t=l(3311),c=l.n(t);const r=function(e){return console.log(c()),o.createElement("div",null,o.createElement("h1",null,"Profile Component!"))}}}]);
